@@ -1,6 +1,6 @@
 # Server Proxy JB Platinum
 
-[![Version](https://img.shields.io/badge/version-1.0.0.1-blue)](https://github.com/SmartMaster35Rus/server-proxy-jb-platinum/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0.3-blue)](https://github.com/SmartMaster35Rus/Server-Proxy-JB-Platinum-Public/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)](https://github.com/SmartMaster35Rus/server-proxy-jb-platinum)
 [![License](https://img.shields.io/badge/license-Proprietary-red)](https://github.com/SmartMaster35Rus/server-proxy-jb-platinum)
 
@@ -35,11 +35,11 @@
 
 ## Скачать
 
-👉 **[Скачать последнюю версию](https://github.com/SmartMaster35Rus/server-proxy-jb-platinum/releases/latest)**
+👉 **[Скачать последнюю версию](https://github.com/SmartMaster35Rus/Server-Proxy-JB-Platinum-Public/releases/latest)**
 
 | Файл | Назначение |
 |------|-----------|
-| `server_proxy_jb_platinum_1.0.0.1.exe` | Портативный — просто запусти |
+| `server_proxy_jb_platinum.exe` | Портативный — просто запусти |
 | `server_proxy_jb_platinum_setup.exe` | Установщик с ярлыком на рабочем столе |
 
 ## Как пользоваться
@@ -122,4 +122,4 @@ Proprietary. All rights reserved. © SmartMaster35Rus, 2026.
 
 ---
 
-[Сообщить об ошибке](https://github.com/SmartMaster35Rus/server-proxy-jb-platinum/issues) · [Все релизы](https://github.com/SmartMaster35Rus/server-proxy-jb-platinum/releases)
+[Сообщить об ошибке](https://github.com/SmartMaster35Rus/Server-Proxy-JB-Platinum-Public/issues) · [Все релизы](https://github.com/SmartMaster35Rus/Server-Proxy-JB-Platinum-Public/releases)
